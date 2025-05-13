@@ -1,0 +1,15 @@
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\CapitolareAI.ML.csproj.AssemblyReference.cache
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\CapitolareAI.ML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\CapitolareAI.ML.AssemblyInfoInputs.cache
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\CapitolareAI.ML.AssemblyInfo.cs
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\CapitolareAI.ML.csproj.CoreCompileInputs.cache
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\bin\Debug\net8.0\CapitolareAI.ML.deps.json
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\bin\Debug\net8.0\CapitolareAI.ML.dll
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\bin\Debug\net8.0\CapitolareAI.ML.pdb
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\bin\Debug\net8.0\CapitolareAI.Core.dll
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\bin\Debug\net8.0\CapitolareAI.Core.pdb
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\Capitola.0B48D733.Up2Date
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\CapitolareAI.ML.dll
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\refint\CapitolareAI.ML.dll
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\CapitolareAI.ML.pdb
+C:\Users\pathakab\LBC\LaCapitolare\API\CapitolareAI.ML\obj\Debug\net8.0\ref\CapitolareAI.ML.dll

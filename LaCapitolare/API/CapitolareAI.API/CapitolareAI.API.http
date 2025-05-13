@@ -1,0 +1,6 @@
+@CapitolareAI.API_HostAddress = http://localhost:5194
+
+GET {{CapitolareAI.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
